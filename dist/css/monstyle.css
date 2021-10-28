@@ -1,0 +1,25 @@
+#form{
+    background-image: url("../images/page-title.jpg");
+    height: 100vh;
+    background-position: center;
+    color: beige;
+}
+
+.btn-primary{
+    background-color: dodgerblue;
+    border-color: aqua;
+}
+
+.btn-primary:hover{
+    background-color: rgb(3, 79, 155);
+    border-color: rgb(13, 132, 200);
+}
+
+.btn-warning:hover{
+    background-color: crimson;
+    border-color: crimson;
+}
+
+.col-md-6{
+    overflow: hidden;
+}

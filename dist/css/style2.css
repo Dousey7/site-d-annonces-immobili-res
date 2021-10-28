@@ -1,0 +1,30 @@
+body{
+	background: #f1f1;
+}
+
+.er-msg{
+	background: #e74c3c;
+	color: white;
+	padding: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+.cdr-ins{
+	text-align: center;
+	background: white;
+	padding: 5px 10px;
+	margin-top: 20px;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 1);
+	border-radius: 10px;
+}
+
+.bg-light{
+	background: #f3f3f3 !important;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+
+.mdp-center{
+	margin-bottom: 18px;
+	text-align: center;
+}
